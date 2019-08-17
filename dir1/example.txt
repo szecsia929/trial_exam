@@ -1,0 +1,8 @@
+Command line & Git
+Traversing directories
+Moving, copying, creating, deleting files
+Passing command line arguments to commands
+Commit, add, push, pull
+Resolving a simple merge conflict
+
+Meg ilyenek.
