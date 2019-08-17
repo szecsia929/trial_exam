@@ -6,3 +6,4 @@ Commit, add, push, pull
 Resolving a simple merge conflict
 
 Meg ilyenek.
+Hozzáadtam valamit a hubon.
